@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Niroop Baraguru Sannaswamy</h1>
 <h3 align="center">Senior DevOps Engineer with expertise in Azure, AWS, Azure Kubernetes Services (K8s), Docker, Terraform, Bash, Linux, Python, Git, Azure CI/CD Pipelines, Jenkins CI/CD</h3>
-
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="niroopbs" /> </p>
 
 - 🔭 I’m currently working on [Azure | AWS |Kubernetes Service (K8s) | Docker | Ansible | Terraform | Bash | Linux | Python | Git | GITLab | Azure CI/CD Pipelines | Jenkins Pipelines | Helm Chart](https://www.boots.com/health-pharmacy and https://www.ubs.com/in/en.html)
