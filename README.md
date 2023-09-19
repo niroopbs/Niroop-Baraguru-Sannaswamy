@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/niroopbs/Niroop-Baraguru-Sannaswamy/blob/main/hand-drawn-flat-design-devops-illustration_23-2149377878.png)
 
 <h1 align="center">Hi 👋, I'm Niroop Baraguru Sannaswamy</h1>
 <h3 align="center">Senior DevOps Engineer with expertise in Azure, AWS, Azure Kubernetes Services (K8s), Docker, Terraform, Bash, Linux, Python, Git, Azure CI/CD Pipelines, Jenkins CI/CD</h3>
